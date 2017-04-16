@@ -1,5 +1,5 @@
 {
-  "name": "standard",
+  "name": "@thg303/standard",
   "description": "JavaScript Standard Style",
   "version": "10.0.2",
   "author": {
@@ -14,7 +14,7 @@
   "dependencies": {
     "eslint": "~3.19.0",
     "eslint-config-standard": "10.2.1",
-    "eslint-config-standard-jsx": "4.0.1",
+    "eslint-config-standard-jsx": "thg303/eslint-config-standard-jsx.git#997fb39",
     "eslint-plugin-import": "~2.2.0",
     "eslint-plugin-node": "~4.2.2",
     "eslint-plugin-promise": "~3.5.0",
